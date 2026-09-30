@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+todos.json
+coach.json
+.coach.lock
+reminders.log
